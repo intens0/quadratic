@@ -21,7 +21,7 @@ int main() {
 
 	root1 = (-b + sqrt(b*b - 4 * a*c)) / (2 * a);
 
-	// Negativer root
+	// Negativer root (root2)
 
 	root2 = (-b - sqrt(b*b - 4 * a*c)) / (2 * a);
 
